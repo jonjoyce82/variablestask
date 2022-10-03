@@ -15,6 +15,11 @@
             myNumber = 2;
             Console.WriteLine(myNumber);
 
+            string word;
+            word = "apple";
+
+            double number = 1.1;
+
             //store and print a word
             string myWord = "apple";
             Console.WriteLine(myWord);
