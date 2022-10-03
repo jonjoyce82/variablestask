@@ -1,0 +1,15 @@
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\bin\Debug\net6.0\VariablesTask.exe
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\bin\Debug\net6.0\VariablesTask.deps.json
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\bin\Debug\net6.0\VariablesTask.runtimeconfig.json
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\bin\Debug\net6.0\VariablesTask.dll
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\bin\Debug\net6.0\VariablesTask.pdb
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.csproj.AssemblyReference.cache
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.AssemblyInfoInputs.cache
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.AssemblyInfo.cs
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.csproj.CoreCompileInputs.cache
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.dll
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\refint\VariablesTask.dll
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.pdb
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\VariablesTask.genruntimeconfig.cache
+C:\Users\531905\source\repos\VariablesTask\VariablesTask\obj\Debug\net6.0\ref\VariablesTask.dll
